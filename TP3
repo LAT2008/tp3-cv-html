@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"href="style.CSS">
+</head>
+<body>
+    <div class="container">
+      <section>
+        <h1>CV du travaille</h1>
+        <img scr="photo.jpg" class="profile">
+      <h2>Les information Personnelles</h2>  
+      <p><strong>Nom:</strong>AiT Taleb</p>
+      <p><strong>Prenom:</strong>Lobna</p>
+      <P><strong>Email:</strong> lobna@gmail.com</P>
+      <P><strong>Téléphon:</strong> 07.10.26.79.73</P>
+      <h2>Formation</h2>
+      <ul>
+        <li>Licence en Informatique</li>
+        <li>Baccalauréat Sciences</li>
+        <li>Nivaux B2 en français</li>
+        <li>Nivaux B2 en englais</li>
+        <li>cetifecat de metrisation en python et en C</li>
+      </ul>
+      <h2>Expériences</h2>
+      <ul>
+        <li>Stage en entreprise du l'Informatique</li>
+        <li>Projet universitaire</li>
+      </ul>
+      <h2>Compétences</h2>
+      <ul>
+        <li>HTML / CSS</li>
+        <li>Python</li>
+        <li>Excel</li>
+        <li>langage C</li>
+      </ul>
+    </div>
+</body>
+</html>
